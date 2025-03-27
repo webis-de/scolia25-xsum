@@ -1,5 +1,5 @@
 # XSum
-**XSum** is a pipeline that generates extended summaries based on the title, abstract, and full text of multiple papers. This repository contains both the XSum pipeline and various utility scripts for data processing and evaluation on the SurveySum Dataset. This code is the implementation used in the paper: "Ask, Retrieve, Summarize: A Modular Pipeline for Scientific Article Summarization".
+**XSum** is a pipeline that generates extended summaries based on the title, abstract, and full text of multiple papers. This repository contains both the XSum pipeline and various utility scripts for data processing and evaluation on the SurveySum Dataset. This code is the implementation used in the paper: *Ask, Retrieve, Summarize: A Modular Pipeline for Scientific Article Summarization*.
 
 ---
 
