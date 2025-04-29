@@ -16,4 +16,4 @@ rouge_score==0.1.2
 semanticscholar==0.10.0
 torch==2.6.0
 tqdm==4.67.1
-transformers==4.50.0.dev0
+transformers==4.50.0
